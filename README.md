@@ -1,6 +1,6 @@
 # Heart-Attack-Chance-Prediction
 
-Predicting the chances of Heart Attack using Logistic Regression.
+Predicting the chances of Heart Attack using Logistic Regression ML Model .
 
 
 
